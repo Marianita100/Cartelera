@@ -1,5 +1,4 @@
 name: Build
-onname: Build
 on:
   push:
     branches:
